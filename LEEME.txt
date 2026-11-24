@@ -1,0 +1,6 @@
+CAMPAMENTO ZOMBI - alpha 0.1.0
+1. Sube TODO el contenido de esta carpeta (incluida .github) a un repositorio de github.com.
+2. Pestaña Actions > "Construir APK alpha" > espera ~5 min.
+3. Descarga "campamento-zombi-alpha-0.1.0" (zip con app-debug.apk).
+4. Pasa el APK al movil e instalalo (permite "instalar apps desconocidas").
+Si ya tenias el repo de la version anterior: reemplaza los archivos y haz commit; se compila solo.
